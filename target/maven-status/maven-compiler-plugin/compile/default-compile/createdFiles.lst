@@ -1,0 +1,3 @@
+com\dcsbootcamp\maven\integrationtest\entity\GreetingEntity.class
+com\dcsbootcamp\maven\integrationtest\GreeterConfig.class
+com\dcsbootcamp\maven\integrationtest\service\Greeter.class

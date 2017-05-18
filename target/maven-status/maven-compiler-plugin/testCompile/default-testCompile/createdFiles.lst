@@ -1,0 +1,7 @@
+com\dcsbootcamp\maven\integrationtest\GreeterNeedContainerTest.class
+com\dcsbootcamp\maven\fixture\PostgresTestConfig.class
+com\dcsbootcamp\maven\integrationtest\entity\GreetingEntityTest.class
+com\dcsbootcamp\maven\integrationtest\GreeterRealTest.class
+com\dcsbootcamp\maven\integrationtest\GreeterNeedTest.class
+com\dcsbootcamp\maven\integrationtest\GreeterDelegateTest.class
+com\dcsbootcamp\maven\integrationtest\GreeterFakeTest.class
